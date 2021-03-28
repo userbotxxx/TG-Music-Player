@@ -1,4 +1,4 @@
-# Calls Music 1 — [pytgcalls](https://github.com/MarshalX/tgcalls)-based group call bot with queue and multiple chat support
+# TG Music Player — [Calls Music](https://github.com/callsmusic) & [pytgcalls](https://github.com/MarshalX/tgcalls)-based group call bot with queue and multiple chat support
 
 ## Requirements
 
@@ -35,7 +35,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ### Heroku
 
-[Click here](https://heroku.com/deploy?template=https://github.com/callsmusic/callsmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/TG-Music-Player)
 
 ## Commands
 
