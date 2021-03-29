@@ -37,6 +37,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/TG-Music-Player)
 
+## Get Your String Session By [Pyrogram](https://replit.com/@HiTechTech1/PyroStringSession)
 ## Commands
 
 | Command | Description                                          |
